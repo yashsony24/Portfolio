@@ -1,0 +1,8 @@
+<section id="about" class="py-20 bg-gray-800" data-aos="fade-up">
+    <div class="container mx-auto px-4 text-center max-w-3xl">
+      <h2 class="text-3xl font-bold mb-4">About Me</h2>
+      <p class="text-lg text-gray-300">
+        I'm a Data Analyst with experience in Python, Excel, SQL, Power BI, and Looker Studio. I enjoy transforming data into meaningful insights and building interactive dashboards.
+      </p>
+    </div>
+  </section>
